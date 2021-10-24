@@ -14,5 +14,8 @@ public class Example1 {
         Example1 E1 = new Example1();
         E1.m1();
         Example1.m2();
+        E1.m2();
+        Example2.m2();
+
     }
 }
